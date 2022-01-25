@@ -1,12 +1,12 @@
 {
-  "name": "todo",
+  "name": "ignite-react-native-desafio-2",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
-    "test": "jest --watch-All"
+    "test": "jest"
   },
   "dependencies": {
     "react": "17.0.1",

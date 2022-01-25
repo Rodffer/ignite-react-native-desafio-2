@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.todo"
+        applicationId "com.ignite-react-native-desafio-2"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
